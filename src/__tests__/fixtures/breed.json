@@ -1,0 +1,238 @@
+{
+ "id": "036feed0-da8a-42c9-ab9a-57449b530b13",
+ "type": "breed",
+ "attributes": {
+  "name": "Affenpinscher",
+  "description": "The Affenpinscher is a small and playful breed of dog that was originally bred in Germany for hunting small game. They are intelligent, energetic, and affectionate, and make excellent companion dogs.",
+  "life": {
+   "max": 16,
+   "min": 14
+  },
+  "male_weight": {
+   "max": 6,
+   "min": 4
+  },
+  "female_weight": {
+   "max": 6,
+   "min": 4
+  },
+  "hypoallergenic": true,
+  "male_height": {
+   "max": 29,
+   "min": 23
+  },
+  "female_height": {
+   "max": 29,
+   "min": 23
+  },
+  "origin": {
+   "era": "17th century",
+   "region": "Central Europe",
+   "country": "Germany"
+  },
+  "coat": {
+   "type": "wire",
+   "colors": [
+    "black",
+    "gray",
+    "silver",
+    "red",
+    "black and tan"
+   ],
+   "length": "short"
+  },
+  "traits": {
+   "energy": 3,
+   "barking": 3,
+   "drooling": 1,
+   "grooming": 3,
+   "shedding": 2,
+   "temperament": [
+    "confident",
+    "curious",
+    "stubborn",
+    "playful",
+    "alert",
+    "mischievous"
+   ],
+   "trainability": 3,
+   "good_with_dogs": 3,
+   "exercise_minutes": 30,
+   "apartment_friendly": 5,
+   "good_with_children": 3,
+   "good_with_strangers": 2
+  },
+  "other_names": [
+   "Monkey Terrier",
+   "Affen",
+   "Diablotin Moustachu"
+  ],
+  "recognized_by": [
+   "AKC",
+   "FCI",
+   "UKC",
+   "KC",
+   "CKC",
+   "ANKC",
+   "NZKC"
+  ],
+  "sources": [
+   {
+    "url": "https://images.akc.org/pdf/breeds/standards/Affenpinscher.pdf",
+    "title": "Official Standard of the Affenpinscher (AKC)"
+   },
+   {
+    "url": "https://www.ukcdogs.com/docs/breeds/affenpinscher-breed-standard.pdf",
+    "title": "AFFENPINSCHER Official UKC Breed Standard"
+   },
+   {
+    "url": "https://brit-petfood.com/en/breed-catalog/pinscher-and-schanuzer-molossoid-breeds-swiss-mountain-and-cattle-dogs/affenpinscher",
+    "title": "Affenpinscher \u2013 FCI Group II breed catalog"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Affenpinscher",
+    "title": "Affenpinscher - Wikipedia"
+   },
+   {
+    "url": "https://www.akc.org/expert-advice/dog-breeds/affenpinscher-history/",
+    "title": "Affenpinscher History: Where the Breed Originated"
+   }
+  ],
+  "images": [
+   {
+    "id": "1861dc37-a00b-4e34-b9b8-8c03b6e58b61",
+    "url": "https://images.dogapi.dog/01v98q4ttqulz609aw8r5h8i1g44",
+    "thumb": "https://images.dogapi.dog/zpwegcab6hzq09q0eyl8oxf66lve",
+    "medium": "https://images.dogapi.dog/f57sae5b2xqi6pxdq6r8tw1h4c8t",
+    "large": "https://images.dogapi.dog/21mg55zlym6nq3o6cm56v0itkdad",
+    "attribution": {
+     "author": "Futurebreak",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg"
+    }
+   },
+   {
+    "id": "add89f7d-2d3c-4e45-9752-8691c2ed5324",
+    "url": "https://images.dogapi.dog/6yxkty9uxjqu88oaatkeh61gudor",
+    "thumb": "https://images.dogapi.dog/lb77ge24lydsghqozajjik9fyw8u",
+    "medium": "https://images.dogapi.dog/t78mfk32frxrfsr9hipqqtfnj4zc",
+    "large": "https://images.dogapi.dog/wtkz5owjefxeuylfeag1gmf43pqb",
+    "attribution": {
+     "author": "Kristy May for Pets Advisor www.petful.com - Uploaded at Petful",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:2013_Westminster_Kennel_Club_Dog_Show-_Affenpinscher_Joey_aka_GCH_Banana_Joe_V_Tani_Kazari_(8471258772).jpg"
+    }
+   },
+   {
+    "id": "c420f1a0-9454-474c-809f-954446f48bd7",
+    "url": "https://images.dogapi.dog/8lptcmlr1ylr265h6shsfwua2idf",
+    "thumb": "https://images.dogapi.dog/a4xyyfhapi8l1iu06enashwk4egp",
+    "medium": "https://images.dogapi.dog/ha7k56brvumrrj9te6zeeo24e4a0",
+    "large": "https://images.dogapi.dog/gwljgkjtpnucrbrg7miuy0wpckh8",
+    "attribution": {
+     "author": "Canarian",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Affenmonkeyterrier2.jpg"
+    }
+   },
+   {
+    "id": "b22ff870-07d0-4a18-a897-0419277b3896",
+    "url": "https://images.dogapi.dog/3mjei7crtj3n6k91c58l1l22cstx",
+    "thumb": "https://images.dogapi.dog/2jn8hgh7pbcmr61o3onzps32rktk",
+    "medium": "https://images.dogapi.dog/woyyys6aiu898tond7k94hdobdn0",
+    "large": "https://images.dogapi.dog/ceqsyyna5ld6w38sbnbcayn6kvwr",
+    "attribution": {
+     "author": "Canarian",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Affenmonkeyterrier1.jpg"
+    }
+   },
+   {
+    "id": "2630919f-1e2f-4f61-8dee-d45dd210fcbf",
+    "url": "https://images.dogapi.dog/n7744jfcvqqyzbfhijufg6ts425g",
+    "thumb": "https://images.dogapi.dog/1ca7aaa97h2td3ewlfjhtu39vnia",
+    "medium": "https://images.dogapi.dog/rbklrrt7f342am75iy8qh4w8a07r",
+    "large": "https://images.dogapi.dog/6fcviprreq0kvi32m1xr9w79r4fs",
+    "attribution": {
+     "author": "Dean Jarvey",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Affenpinscher_Molly.jpg"
+    }
+   },
+   {
+    "id": "389ca71e-b7a3-4479-8b23-bdddfd6360f3",
+    "url": "https://images.dogapi.dog/pgoq54fr38jriujrasgrs3imp3s8",
+    "thumb": "https://images.dogapi.dog/t63993bumuk5mbwwi5epwca3xvu7",
+    "medium": "https://images.dogapi.dog/z61xlg48xwfz3322g9t3qbbq1blb",
+    "large": "https://images.dogapi.dog/4fzigpxstbc13fzq5nls1uz6rrq1",
+    "attribution": {
+     "author": "Canarian",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:DocFile_Affen.jpg"
+    }
+   },
+   {
+    "id": "924b2250-aa63-4748-b5fd-4a37610e8305",
+    "url": "https://images.dogapi.dog/ieizqit2kj9u37u91xhc72chonf4",
+    "thumb": "https://images.dogapi.dog/uaguusuhfcbf4mbufrlhqbxru1gk",
+    "medium": "https://images.dogapi.dog/06kqofhkn4nyt66z4kygzo2uh1m5",
+    "large": "https://images.dogapi.dog/5b2systb0rx3ejl17eieyo21agg4",
+    "attribution": {
+     "author": "Plank",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Jack_Russell_Terrier_1.jpg"
+    }
+   },
+   {
+    "id": "1f7b5d92-94c1-4b8d-a8d5-0defe250ee66",
+    "url": "https://images.dogapi.dog/v7wjr2t5wpqq68omjmug997rdm64",
+    "thumb": "https://images.dogapi.dog/94ebsxkmnwqs1huksmo72jv6hvtu",
+    "medium": "https://images.dogapi.dog/zekkafjq6oeuf5bke5tk9jnj6zs4",
+    "large": "https://images.dogapi.dog/qbeb9qqyfyriy3cgw4wn2ngzp1n8",
+    "attribution": {
+     "author": "Lori Branham",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:An_Affenpinscher.jpg"
+    }
+   },
+   {
+    "id": "a87b8ed1-b59a-4cc5-ba8f-5c0785525d6d",
+    "url": "https://images.dogapi.dog/4a1braqd9nlauw7lnyfkeg4ln2a5",
+    "thumb": "https://images.dogapi.dog/7vw0cywn4tkv3ag7xt8rl3b3vtbs",
+    "medium": "https://images.dogapi.dog/sl6jyywxo5hobdkktvao64e3j1ps",
+    "large": "https://images.dogapi.dog/j3j60yxlz6uz868vspos61g7k3k9",
+    "attribution": {
+     "author": "Canarian",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0",
+     "source": "wikimedia_commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Apinapinseri.jpg"
+    }
+   }
+  ]
+ },
+ "relationships": {
+  "group": {
+   "data": {
+    "id": "f56dc4b1-ba1a-4454-8ce2-bd5d41404a0c",
+    "type": "group"
+   }
+  }
+ }
+}

@@ -1,0 +1,30 @@
+# Perf run: assumes the Expo dev menu is open (Ctrl+Cmd+Z in Simulator). Enables RN's Perf Monitor,
+# then flings through all 283 rows and back, capturing the overlay (UI/JS FPS + RAM).
+appId: host.exp.Exponent
+---
+- tapOn: 'Toggle performance monitor'
+- waitForAnimationToEnd
+- repeat:
+    times: 14
+    commands:
+      - swipe:
+          start: 50%, 85%
+          end: 50%, 15%
+          duration: 120
+- takeScreenshot: perf-mid-scroll
+- repeat:
+    times: 14
+    commands:
+      - swipe:
+          start: 50%, 85%
+          end: 50%, 15%
+          duration: 120
+- takeScreenshot: perf-end-of-list
+- repeat:
+    times: 30
+    commands:
+      - swipe:
+          start: 50%, 15%
+          end: 50%, 85%
+          duration: 100
+- takeScreenshot: perf-back-to-top
