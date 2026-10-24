@@ -1,13 +1,3 @@
-
-
-https://github.com/user-attachments/assets/9ab5d94d-067f-4702-9f19-36a8d626bc8e
-
-
-
-https://github.com/user-attachments/assets/03fadcbc-b380-4582-8de7-9198f006887e
-
-
-
 # Dog Breed Explorer
 
 An offline-first React Native app for browsing and filtering all **283** dog breeds from the [Dog API v2](https://dogapi.dog/docs/api-v2). Built with Expo SDK 58 · React Native 0.88 · TypeScript (strict).
