@@ -1,18 +1,26 @@
+
+
+https://github.com/user-attachments/assets/9ab5d94d-067f-4702-9f19-36a8d626bc8e
+
+
+
+https://github.com/user-attachments/assets/03fadcbc-b380-4582-8de7-9198f006887e
+
+
+
 # Dog Breed Explorer
 
 An offline-first React Native app for browsing and filtering all **283** dog breeds from the [Dog API v2](https://dogapi.dog/docs/api-v2). Built with Expo SDK 58 · React Native 0.88 · TypeScript (strict).
 
-| Breed list (light) | Breed list (dark) | Filters applied | Offline |
-|---|---|---|---|
-| ![](docs/screenshots/light-list.png) | ![](docs/screenshots/dark-list.png) | ![](docs/screenshots/light-filters-applied.png) | ![](docs/screenshots/light-offline.png) |
 
-| Filter sheet | Traits | Gallery with attribution | Traits (dark) |
-|---|---|---|---|
-| ![](docs/screenshots/light-filters-sheet.png) | ![](docs/screenshots/light-detail-traits.png) | ![](docs/screenshots/light-detail-gallery.png) | ![](docs/screenshots/dark-detail-traits.png) |
 
-| Android: filters applied | Android: offline cold start |
-|---|---|
-| ![](docs/screenshots/android-filters-applied.png) | ![](docs/screenshots/android-offline.png) |
+https://github.com/user-attachments/assets/4c695b2e-cd7e-4f44-a8bc-8b70540b7efc
+
+
+
+https://github.com/user-attachments/assets/750aee1d-1e02-498d-9b3b-f27895089e15
+
+
 
 ## Quick Start
 
