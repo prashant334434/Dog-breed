@@ -15,7 +15,9 @@ An offline-first React Native app for browsing and filtering all **283** dog bre
 
 
 
-https://github.com/user-attachments/assets/4c695b2e-cd7e-4f44-a8bc-8b70540b7efc | https://github.com/user-attachments/assets/750aee1d-1e02-498d-9b3b-f27895089e15
+https://github.com/user-attachments/assets/4c695b2e-cd7e-4f44-a8bc-8b70540b7efc 
+
+https://github.com/user-attachments/assets/750aee1d-1e02-498d-9b3b-f27895089e15
 
 
 
