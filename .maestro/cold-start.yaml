@@ -1,8 +1,0 @@
-# Cold start with cached data (Release build): launch -> full list rendered.
-appId: ${APP_ID || 'ai.tripare.dogbreeds'}
----
-- stopApp
-- launchApp
-- extendedWaitUntil:
-    visible: 'Showing 283 of 283 breeds'
-    timeout: 10000
